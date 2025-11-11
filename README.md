@@ -13,7 +13,7 @@
 -   💬 Ask me about **Full-Stack Development, System Designs, Design Patterns, Competitive Programing**
 -   ⚡ Fun fact: **I love Chess!**
 -   Codeforces: **Specialist**
--   CodeChef: **4 Start**
+-   CodeChef: **4 Star**
 
 ---
 
